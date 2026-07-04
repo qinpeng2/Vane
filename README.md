@@ -1,3 +1,14 @@
+> **📦 本地备份快照** (2026-07-04)
+>
+> | 项 | 值 |
+> |---|---|
+> | 原路径 | `/opt/workspace/playground/Perplexica` |
+> | 上游 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane)（原 Perplexica，已改名） |
+> | 改动分支 | `playground` |
+> | 改动内容 | `yarn.lock` 更新 + 新增 `package-lock.json` |
+>
+> 查看本地改动：`git checkout playground`
+
 # Vane 🔍
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/ItzCrazyKns/Vane?style=social)](https://github.com/ItzCrazyKns/Vane/stargazers)
